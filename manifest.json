@@ -1,0 +1,14 @@
+{
+  "name": "brick-experimental-features",
+  "description": "Experimental features for Canopsis Frontend",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwenaelp/brick-experimental-features.git"
+  },
+  "author": "gwenael pluchon<info@gwenp.fr>",
+  "license": "AGPL-3.0",
+  "envMode": "production",
+  "bowerDependencies": {
+  }
+}

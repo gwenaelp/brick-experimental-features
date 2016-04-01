@@ -1,0 +1,27 @@
+{
+  "name": "brick-experimental-features",
+  "description": "Experimental features for Canopsis Frontend",
+  "version": "0.0.1",
+  "authors": [
+	"gwenael pluchon<info@gwenp.fr>"
+  ],
+  "main": "init.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "canopsis"
+  ],
+  "license": "AGPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".",
+    "test",
+    "tests"
+  ],
+  "envMode": "production",
+  "devDependencies": {}
+
+}
